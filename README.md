@@ -19,8 +19,7 @@ Analytical and innovative mindset, with experience in machine learning, predicti
 
 ---
 #### <p align="left">📫 Reach me on </p>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/noelia
--almodóvar-garcía/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/noelia-almodóvar-garcía/))
 [![GMAIL Badge](https://img.shields.io/badge/-GMAIL-e4405f?style=flat-square&logo=gmail&logoColor=white)](mailto:n.almodovarg@gmail.com)
 
 ---
