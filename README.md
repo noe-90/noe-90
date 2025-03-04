@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**noe-90/noe-90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Animated GIF](https://imgur.com/a/kuRFJLn)
 
-Here are some ideas to get you started:
+## <p align="center">Glad to have you here! 👋</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a data analyst from Madrid. Passionate about data science and its application in the real world.
+Convinced that data is key to optimizing processes, generating insights, and driving business growth.
+Analytical and innovative mindset, with experience in machine learning, predictive modeling, and data visualization.
+<br>
+
+---
+#### <p align="left">🛠️ Skills & Tools </p>
+
+![PowerBI](https://img.shields.io/badge/-PowerBI-%23E44D27?style=flat-square&logo=powerbi&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-%231572B6?style=flat-square&logo=Python&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/-MySQL-%23F7DF1C?style=flat-square&logo=MySQL&logoColor=ffffff&labelColor=%ffffff&color=%23FFCE5A)
+![R](https://img.shields.io/badge/-R-007ACC?style=flat-square&logo=r&logoColor=white)
