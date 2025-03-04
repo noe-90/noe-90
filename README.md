@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Animated GIF](https://imgur.com/a/kuRFJLn)
+![Animated GIF](https://i.imgur.com/PSEpN7J.gif)
 
 ## <p align="center">Glad to have you here! 👋</p>
 
