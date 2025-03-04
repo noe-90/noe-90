@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/PSEpN7J.gif" width="1200"/>
+<img src="https://i.imgur.com/PSEpN7J.gif" width="1000" height="700"/>
+
+
 
 ## <p align="center">Glad to have you here! 👋</p>
 
